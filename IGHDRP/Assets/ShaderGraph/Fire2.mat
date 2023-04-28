@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-307905412929138808
+--- !u!114 &-7470014330883565292
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -23,7 +23,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fire
+  m_Name: Fire2
   m_Shader: {fileID: -6465566751694194690, guid: 50f8158cb63105647a29bd977b0f4a56,
     type: 3}
   m_ValidKeywords:
@@ -111,7 +111,7 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 0
     m_Colors:
-    - _Color: {r: 13.222407, g: 5.0535903, b: 0, a: 1}
+    - _Color: {r: 27.383368, g: 11.612842, b: 0.28673685, a: 0}
     - _ColorIntensity: {r: -1, g: 0.74, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
